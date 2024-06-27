@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 import './Menu.css'
-import lang from '../../Helpers/langs.json'
+import lang from '../../lang.json'
 import Language from './Language'
 import { useLanguage } from '../../Helpers/LanguageContext'
 
@@ -15,7 +15,7 @@ function Menu(props) {
         changeLanguage(lang)
         setMenuOpen(false)
     }
-
+    
     return (
         <div className='menu top-1 lg:top-[20px] right-1 lg:right-[20px] '>
             <div className="menuSelect " onClick={e => setMenuOpen(!menuOpen)}>
