@@ -1,0 +1,110 @@
+.menuSelect {
+    padding: 7px 12px 7px 13px;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 4px;
+    border: 1px solid #DEE5EF;
+    background: white;
+    display: flex;
+    gap: 5px;
+    cursor: pointer;
+    max-width: 64px;
+    align-items: center;
+}
+
+.menu {
+    position: fixed;
+    
+    z-index: 99999;
+    display: block;
+    max-width: 150px;
+    -webkit-user-select: none;
+    user-select: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.menuOpen {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    flex-direction: column;
+    gap: 5px;
+    background: white;
+    border-radius: 4px;
+    border: 1px solid #DEE5EF;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+}
+
+.langItem {
+    cursor: pointer;
+    padding: 5px;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 130%;
+    color: #394A64;
+    text-transform: uppercase;
+}
+
+.langItem:hover {
+    background: #F5F7FA;
+}
+
+.selectedLanguage {
+    color: #000;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 130%;
+}
+
+.menuOpenWrapper {
+    height: 100%;
+}
+
+.menuOpen {
+    max-height: 150px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.menuOpen::-webkit-scrollbar {
+    width: 5px;
+}
+
+
+/* width */
+
+.menuOpen::-webkit-scrollbar {
+    width: 5px;
+}
+
+
+/* Track */
+
+.menuOpen::-webkit-scrollbar-track {
+    background: white;
+}
+
+
+/* Handle */
+
+.menuOpen::-webkit-scrollbar-thumb {
+    background: #394A64;
+}
+
+
+/* Handle on hover */
+
+.menuOpen::-webkit-scrollbar-thumb:hover {
+    background: #394A64;
+}
+@media screen and (max-width: 768px) {
+    .menuSelect {
+        padding: 2px 6px 2px 6px;
+    }
+    
+}

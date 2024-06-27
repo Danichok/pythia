@@ -1,0 +1,57 @@
+{
+    
+    "en": {
+        "homeTitle1": "Innovate.",
+        "homeTitle2": "Integrate.",
+        "homeTitle3": "Inspire.",
+        "homeHeaderLink": "Contact us",
+        "homeAbout": "We are a pioneering company at the forefront of technological advancement, dedicated to creating revolutionary products that transform industries and enhance everyday life.",
+        "homeAbout2": "With more than a decade of relentless commitment to innovation, our team of expert engineers, designers, and visionaries harnesses the power of emerging technologies to develop state-of-the-art solutions that set new standards in the market.",
+        "homeFooterAddress1": "NICOLAOU PENTADROMOS CENTER, Floor 9, Flat/Office 903Α",
+        "homeFooterAddress2": "3025, Λεμεσός, Κύπρος",
+        "homeFooterAddress3": "Cyprus",
+        "homeFooterSubtitle": "For media inquiries, please contact media@pythiaplus.com",
+        "homeFooterSocialLink1": "Privacy Policy",
+        "homeFooterSocialLink2": "Terms and Conditions",
+        "homeFooterSocialLink3": "Cookie Policies",
+        "homeFormModal1": "Email",
+        "homeFormModal2": "Description...",
+        "homeFormModalBtn": "Contact us"
+    },
+    "es": {
+        "homeTitle1": "Innova.",
+        "homeTitle2": "Integra.",
+        "homeTitle3": "Inspira.",
+        "homeHeaderLink": "Contáctanos",
+        "homeAbout": "Somos una empresa pionera a la vanguardia del avance tecnológico, dedicada a crear productos revolucionarios que transforman industrias y mejoran la vida cotidiana.",
+        "homeAbout2": "Con más de una década de compromiso inquebrantable con la innovación, nuestro equipo de ingenieros, diseñadores y visionarios expertos aprovecha el poder de las tecnologías emergentes para desarrollar soluciones de vanguardia que establecen nuevos estándares en el mercado.",
+        "homeFooterAddress1": "NICOLAOU PENTADROMOS CENTER, Piso 9, Apartamento/Oficina 903Α",
+        "homeFooterAddress2": "3025, Limassol",
+        "homeFooterAddress3": "Chipre",
+        "homeFooterSubtitle": "Para consultas de prensa, por favor contacta a media@pythiaplus.com",
+        "homeFooterSocialLink1": "Política de Privacidad",
+        "homeFooterSocialLink2": "Términos y Condiciones",
+        "homeFooterSocialLink3": "Política de Cookies",
+        "homeFormModal1": "Correo electrónico",
+        "homeFormModal2": "Descripción...",
+        "homeFormModalBtn": "Contáctanos"
+    },
+    "pt": {
+       "homeTitle1": "Inove.",
+        "homeTitle2": "Integre.",
+        "homeTitle3": "Inspire.",
+        "homeHeaderLink": "Entre em contato",
+        "homeAbout": "Somos uma empresa pioneira na vanguarda do avanço tecnológico, dedicada a criar produtos revolucionários que transformam indústrias e melhoram a vida cotidiana.",
+        "homeAbout2": "Com mais de uma década de compromisso incansável com a inovação, nossa equipe de engenheiros, designers e visionários especialistas aproveita o poder das tecnologias emergentes para desenvolver soluções de ponta que estabelecem novos padrões no mercado.",
+        "homeFooterAddress1": "NICOLAOU PENTADROMOS CENTER, Andar 9, Apartamento/Escritório 903Α ",
+        "homeFooterAddress2": "3025, Limassol",
+        "homeFooterAddress3": "Chipre",
+        "homeFooterSubtitle": "Para consultas da imprensa, por favor contate media@pythiaplus.com",
+        "homeFooterSocialLink1": "Política de Privacidade",
+        "homeFooterSocialLink2": "Termos e Condições",
+        "homeFooterSocialLink3": "Política de Cookies",
+        "homeFormModal1": "Email",
+        "homeFormModal2": "Descrição",
+        "homeFormModalBtn": "Entre em contato"
+    }
+}

@@ -1,0 +1,36 @@
+.languageBlock {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.languageBlock {
+    color: #000;
+    font-size: 12px;
+    font-family: Inter;
+    line-height: 130%;
+}
+
+.languageBlock p:first-child {
+    text-transform: uppercase;
+    width: 20px;
+}
+
+.languageBlock img {
+    width: 16px;
+}
+
+.selectedLanguageText {
+    color: #000;
+    font-size: 12px;
+    
+    font-weight: 600;
+    line-height: 130%;
+    text-transform: uppercase;
+}
+
+.languageBlock:last-child {
+    margin-bottom: 0;
+}
